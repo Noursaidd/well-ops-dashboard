@@ -1,0 +1,31 @@
+well_id,field,lift_type,online_date
+P-001,Field C,ESP,2023-07-05
+P-002,Field B,Natural flow,2019-11-14
+P-003,Field C,Gas lift,2021-04-07
+P-004,Field C,Gas lift,2023-04-03
+P-005,Field B,Natural flow,2022-06-16
+P-006,Field C,ESP,2020-11-29
+P-007,Field C,ESP,2019-12-13
+P-008,Field A,Gas lift,2021-02-01
+P-009,Field A,ESP,2020-07-16
+P-010,Field A,ESP,2019-03-13
+P-011,Field A,ESP,2020-02-28
+P-012,Field C,ESP,2021-11-06
+P-013,Field C,Natural flow,2020-05-19
+P-014,Field A,Gas lift,2020-08-13
+P-015,Field B,ESP,2023-03-02
+P-016,Field C,ESP,2023-06-03
+P-017,Field A,ESP,2020-04-17
+P-018,Field C,ESP,2021-09-17
+P-019,Field A,ESP,2020-08-13
+P-020,Field B,Gas lift,2022-01-18
+P-021,Field C,ESP,2022-07-22
+P-022,Field A,ESP,2022-12-12
+P-023,Field B,ESP,2021-09-28
+P-024,Field A,Gas lift,2019-06-25
+P-025,Field C,ESP,2021-08-23
+P-026,Field A,ESP,2021-10-03
+P-027,Field C,Natural flow,2020-09-25
+P-028,Field B,ESP,2018-08-21
+P-029,Field B,Gas lift,2021-09-08
+P-030,Field B,Gas lift,2020-08-29

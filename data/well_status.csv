@@ -1,0 +1,31 @@
+well_id,recent_actual_vs_forecast_pct,annual_decline_pct,status
+P-030,-28.792,21.907,Below forecast - investigate
+P-010,-27.601,17.623,Below forecast - investigate
+P-002,-26.459,20.326,Below forecast - investigate
+P-004,-6.66,33.393,On track
+P-001,-4.364,23.469,On track
+P-021,-2.027,18.337,On track
+P-022,-1.988,36.96,On track
+P-026,-0.558,28.16,On track
+P-020,-0.485,23.672,On track
+P-024,-0.482,11.725,On track
+P-029,-0.467,29.2,On track
+P-023,0.248,20.447,On track
+P-007,0.386,15.514,On track
+P-008,0.955,22.634,On track
+P-003,1.548,14.758,On track
+P-013,1.695,23.761,On track
+P-018,2.894,24.591,On track
+P-015,3.35,32.268,On track
+P-019,4.452,11.132,On track
+P-016,5.036,27.955,On track
+P-012,5.719,18.288,On track
+P-009,5.822,18.178,On track
+P-011,6.049,23.831,On track
+P-017,6.993,26.736,On track
+P-006,6.994,28.835,On track
+P-025,8.472,27.274,On track
+P-005,9.506,31.044,On track
+P-014,10.679,23.335,Above forecast - re-forecast
+P-027,12.148,30.802,Above forecast - re-forecast
+P-028,15.163,15.044,Above forecast - re-forecast
