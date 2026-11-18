@@ -1,5 +1,7 @@
 # 🛢️ Well Operations Dashboard (Streamlit)
 
+**Author:** Noor Said Alshamsi · [GitHub](https://github.com/Noursaidd)
+
 An interactive dashboard that production engineers can open every morning to see **how much oil
 is being lost, why, and which wells need attention**, then drill down into any single well.
 
