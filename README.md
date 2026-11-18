@@ -36,7 +36,7 @@ streamlit run app.py          # opens http://localhost:8501
 * **Streamlit** for the app, **Plotly** for interactive charts (hover, zoom), **pandas** for filtering/aggregation.
 * `@st.cache_data` caches loaded data so filters respond instantly.
 * Data in `data/` is the cleaned output of my companion project
-  [*Production Deferment & Well Performance Analytics*](../production-deferment-analytics):
+  [*Production Deferment & Well Performance Analytics*](https://github.com/Noursaidd/production-deferment-analytics):
   daily production with potential and deferment, downtime events (built in SQL with gaps-and-islands),
   and decline-curve status per well. The data is synthetic (no confidential data) and modelled on real
   daily production reports.
