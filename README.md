@@ -5,7 +5,7 @@
 An interactive dashboard that production engineers can open every morning to see **how much oil
 is being lost, why, and which wells need attention**, then drill down into any single well.
 
-**Live app:** _add your Streamlit Cloud link here after deploying (see below)_
+**Live app:** https://noor-well-ops.streamlit.app/
 
 ![Overview](docs/screenshot_overview.png)
 
